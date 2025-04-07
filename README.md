@@ -15,7 +15,7 @@ A simple two-player dice rolling game built using **HTML**, **CSS**, and **JavaS
 
 ## Demo 🔗
 You can play the game live here:  
-[Simple Dice Game Demo](https://abkas.github.io/Simple_dice_game_JS/)
+[Simple Dice Game Demo](simple-dice-game-js-git-master-real-eggs-projects.vercel.app)
 
 ---
 
